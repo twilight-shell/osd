@@ -1,5 +1,7 @@
 # twilight-shell/osd
 
+[![ci](https://github.com/twilight-shell/osd/actions/workflows/ci.yml/badge.svg)](https://github.com/twilight-shell/osd/actions/workflows/ci.yml)
+
 The on-screen display of the [twilight-shell](https://github.com/twilight-shell)
 organization: a pill that rises from the bottom edge of the screen whenever the
 volume or the mute state changes, with a meter, a star riding its tip and the
@@ -42,6 +44,10 @@ right after startup.
 
 The colors come from `~/.config/twilight-shell/theme.toml` (see
 [core](https://github.com/twilight-shell/core)).
+
+## Contributing
+
+Contributions are welcome: see [CONTRIBUTING.md](CONTRIBUTING.md). Agents and the like: [AGENTS.md](AGENTS.md).
 
 ## License
 
